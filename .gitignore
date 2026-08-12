@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+*.pkl
+*.joblib
+*.h5
+*.keras
+dataset/
+datasets/
+data/
